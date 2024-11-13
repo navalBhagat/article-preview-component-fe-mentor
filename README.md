@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![TODO](./public/images/screenshot.png)
+![](./public/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/article-preview-component-fe-mentor)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://article-preview-component-fe-mentor.vercel.app/)
 
 ## Author
 
